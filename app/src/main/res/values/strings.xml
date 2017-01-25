@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">In Class 2b</string>
+    <string name="target_weight">Target Weight</string>
+    <string name="bmi_ranges">BMI Ranges</string>
+    <string name="range1"><![CDATA[< 18.5]]></string>
+    <string name="range2">18.5 to 24.9</string>
+    <string name="range3">25.0 to 29.9</string>
+    <string name="range4"><![CDATA[> 29.9]]></string>
+    <string name="height_heading">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="calc_weight">Calculate Weight</string>
+    <string name="resultInBetween">Your weight should be in between </string>
+    <string name="resultAbove">Your weight should be above </string>
+    <string name="resultBelow">Your weight should be below </string>
+    <string name="invalid_input">Invalid Input!</string>
+    <string name="weightCalculated">Weight Calculated.</string>
+</resources>
